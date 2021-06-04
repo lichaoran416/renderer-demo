@@ -1,0 +1,15 @@
+{
+  "name": "render-demo",
+  "version": "0.0.1",
+  "description": "a render demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gl-matrix": "^3.3.0",
+    "rxjs": "^7.1.0"
+  }
+}
